@@ -8,7 +8,7 @@
     </parameters>
 
     <services>
-        <service id="opensky.htmlawed.abstract" class="%opensky.htmlawed.class%" abstract="true" public="false">
+        <service id="opensky.htmlawed.abstract" class="%opensky.htmlawed.class%" abstract="true" public="true">
             <file>%opensky.htmlawed.file%</file>
             <argument /> <!-- Configuration -->
             <argument /> <!-- Spec -->
